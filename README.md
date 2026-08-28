@@ -43,4 +43,4 @@ Project page: https://subtitle-player-master.softax.xyz
 
 ## A note on usage
 > [!CAUTION]
-> Provided for educational and utility purposes only. Use at your own discretion.                     
+> Provided for educational and utility purposes only. Use at your own discretion.                      
